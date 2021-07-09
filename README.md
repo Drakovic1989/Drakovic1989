@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Drakovic1989
 - 👀 I’m interested in games C++
-- 🌱 I’m currently learning Nothing
-- 💞️ I’m looking to collaborate on anything with C++
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on anything with Python/C++
 - 📫 How to reach me My Discord+ Drakovic#4426
 
 <!---
